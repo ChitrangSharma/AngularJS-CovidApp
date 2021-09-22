@@ -11,7 +11,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
 </head>
 <body ng-app="myApp" ng-controller="myCtrl">
-<img class="mx-auto d-block" style="width:10%" src="img/img2.png"/>
+<img class="mx-auto d-block" style="width:10%" src="img2.png"/>
 <div class="container">
     <div class="jumbotron">
 
@@ -86,6 +86,6 @@
 
 </div>
 
-<script src="./js/myscript.js"></script>
+<script src="myscript.js"></script>
 </body>
 </html>
